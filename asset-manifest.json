@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Little-Lemon-Restaurant-App/static/css/main.453bb718.css",
+    "main.js": "/Little-Lemon-Restaurant-App/static/js/main.ad86f565.js",
+    "static/js/453.6b81b7de.chunk.js": "/Little-Lemon-Restaurant-App/static/js/453.6b81b7de.chunk.js",
+    "index.html": "/Little-Lemon-Restaurant-App/index.html",
+    "main.453bb718.css.map": "/Little-Lemon-Restaurant-App/static/css/main.453bb718.css.map",
+    "main.ad86f565.js.map": "/Little-Lemon-Restaurant-App/static/js/main.ad86f565.js.map",
+    "453.6b81b7de.chunk.js.map": "/Little-Lemon-Restaurant-App/static/js/453.6b81b7de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.453bb718.css",
+    "static/js/main.ad86f565.js"
+  ]
+}
