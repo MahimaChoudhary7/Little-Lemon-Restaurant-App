@@ -34,7 +34,7 @@ const Footer=()=> {
                     <h3>Contact Us</h3>
                     <li>123 Main Street, Chicago, Illinios</li>
                     <li>0123-4567-89</li>
-                    <li>contact@littlelemonrestaurant.com</li>
+                    <li>littlelemon@restaurant.com</li>
                 </ul>
                 <ul>
                     <h3>Follow Us</h3>
