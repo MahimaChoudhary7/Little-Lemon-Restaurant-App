@@ -14,7 +14,7 @@ The following technologies were used to build this website:
 
 ### Live Website
 
-Open [http://localhost:3000/](http://localhost:3000/) to view it in your browser.
+Open [http://localhost:3000/]( http://localhost:3000/Little-Lemon-Restaurant-App) to view it in your browser.
 
 Please note: the only functionality working on this website besides the design is the Reserve a Table function.
 
