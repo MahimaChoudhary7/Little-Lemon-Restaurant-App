@@ -12,7 +12,7 @@ const Nav=()=> {
         <nav className={styles.nav}>
             <div className={styles.navContainer}>
                 <Link className={styles.navLogo} to="/">
-                    <img src="/Logo.svg" alt=""/>
+                    <img src={`${process.env.PUBLIC_URL}/Logo.svg`} alt=""/>
                 </Link>
                 <div className={styles.buttonContainer}>
                     <button onClick={toggleMenu} className={`${styles.button} ${showMenu && styles.open}`}>

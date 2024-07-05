@@ -22,8 +22,8 @@ const About=()=> {
                     </p>
                 </div>
                 <div className={styles.aboutPhotos}>
-                    <img src="mario-and-adrian-1.jpg" alt="/"/>
-                    <img src="mario-and-adrian-2.jpg" alt="/"/>
+                    <img src={`${process.env.PUBLIC_URL}/mario-and-adrian-1.jpg`} alt="/"/>
+                    <img src={`${process.env.PUBLIC_URL}/mario-and-adrian-2.jpg`} alt="/"/>
                 </div>
             </div>
         </div>

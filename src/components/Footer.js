@@ -7,7 +7,7 @@ const Footer=()=> {
         <footer className={styles.footer}>
             <div className={styles.footerContainer}>
                 <div className={styles.footerLogo}>
-                    <img src="/Logo-white.png" alt=""/>
+                    <img src={`${process.env.PUBLIC_URL}/Logo-white.png`} alt=""/>
                 </div>
                 <ul>
                     <h3>NAVIGATION</h3>

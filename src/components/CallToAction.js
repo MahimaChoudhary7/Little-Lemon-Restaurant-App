@@ -21,7 +21,7 @@ const CallToAction=()=> {
                     </Link>
                 </div>
                 <div className={styles.heroImg}>
-                    <img src="/restaurant-food.jpg" alt=""/>
+                    <img src={` http://localhost:3000/Little-Lemon-Restaurant-App/restaurant-food.jpg`} alt="restaurant-food"/>
                 </div>
             </div>
         </div>
