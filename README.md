@@ -39,10 +39,10 @@ To set up this project locally, follow these steps:
 
 ### Usage
 
-To start the project, run the following command:
+    To start the project, run the following command:
 
-```bash
-npm start
+    ```bash
+    npm start
 
 This will start the development server and open the app in your default web browser.
 
