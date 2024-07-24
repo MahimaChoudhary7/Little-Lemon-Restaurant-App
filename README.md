@@ -39,7 +39,7 @@ To set up this project locally, follow these steps:
 
 ### Usage
 
-    To start the project, run the following command:
+* To start the project, run the following command:
 
     ```bash
     npm start
