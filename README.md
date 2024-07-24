@@ -18,30 +18,31 @@ The following technologies were used to build this website:
 * **Services**: Information about the services offered by the restaurant.
 * **Contact**: Contact information and a form for users to get in touch with the restaurant.
 
-## Installation
+### Installation
 
 To set up this project locally, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository**:
 
-```bash
-git clone https://github.com/your-username/little-lemon-restaurant-app.git
+    ```bash
+    git clone https://github.com/your-username/little-lemon-restaurant-app.git
 
-2. Navigate to the project directory:
+2. **Navigate to the project directory**:
 
-```bash
-cd little-lemon-restaurant-app
+    ```bash
+    cd little-lemon-restaurant-app
 
-3.Install the dependencies:
+3. **Install the dependencies**:
 
-```bash
-npm install
+    ```bash
+    npm install
 
-## Usage
-To start the project, run the following command:
+### Usage
 
-```bash
-npm start
+  To start the project, run the following command:
+
+    ```bash
+    npm start
 
 This will start the development server and open the app in your default web browser.
 
